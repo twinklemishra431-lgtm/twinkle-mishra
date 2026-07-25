@@ -10,4 +10,4 @@ This repository contains my coding projects and learning journey.
 - JavaScript
 - Git & GitHub
 <br>
-Author-Twinkle Mishrs
+Author-Twinkle Mishra
