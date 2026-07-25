@@ -9,3 +9,5 @@ This repository contains my coding projects and learning journey.
 - CSS
 - JavaScript
 - Git & GitHub
+<br>
+Author-Twinkle Mishrs
